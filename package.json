@@ -1,0 +1,15 @@
+{  
+  "name": "bug-banisher",  
+  "version": "16.13.1",  
+  "description": "BUG脚本审查",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/bug-banisher"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/bug-banisher"  
+}
